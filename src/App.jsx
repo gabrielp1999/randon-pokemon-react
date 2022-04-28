@@ -1,12 +1,12 @@
-import Table from './Components/Table';
 import './App.css';
+import Main from './Components/Main';
 
 function App() {
   document.title = "Pokemon Randon";
   return (
     <div className="App">
-      <h2>Pokemon Randon</h2>
-      <Table />
+      <h1>Pokemon Randon</h1>
+      <Main />
     </div>
   );
 }
