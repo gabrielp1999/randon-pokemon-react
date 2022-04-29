@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/randon-pokemon-react/static/css/main.c03c5709.css",
+    "main.js": "/randon-pokemon-react/static/js/main.934d13f9.js",
+    "static/js/787.45887227.chunk.js": "/randon-pokemon-react/static/js/787.45887227.chunk.js",
+    "index.html": "/randon-pokemon-react/index.html",
+    "main.c03c5709.css.map": "/randon-pokemon-react/static/css/main.c03c5709.css.map",
+    "main.934d13f9.js.map": "/randon-pokemon-react/static/js/main.934d13f9.js.map",
+    "787.45887227.chunk.js.map": "/randon-pokemon-react/static/js/787.45887227.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c03c5709.css",
+    "static/js/main.934d13f9.js"
+  ]
+}
